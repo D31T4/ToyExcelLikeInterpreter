@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "sourceMap": true,
+        "removeComments": true,
+        "alwaysStrict": true,
+        "newLine": "crlf",
+        "moduleResolution": "node",
+        "skipLibCheck": true,
+        "outDir": "wwwroot/js"
+    }
+}
